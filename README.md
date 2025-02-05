@@ -34,3 +34,9 @@ After execution, the following attributes will contain the corresponding traject
 
 * The INS is sensitive to noise, hence it may be beneficial to apply denoising algorithms to raw IMU signals prior to feeding them into INS.
 
+
+# References
+
+* Paul D. Groves (2013). Principles of GNSS, Inertial, and Multisensor Integrated Navigation Systems (2nd Ed.). Artech House, USA.
+
+* D.H. Titterton and J.L. Weston (2004). Strapdown Inertial Navigation Technology (2nd Ed.). Institution of Engineering and Technology, USA.
